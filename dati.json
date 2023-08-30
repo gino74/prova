@@ -1,8 +1,8 @@
 [
 {"id":1, "titolo": "il gatto ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
-{"id":2, "titolo": "il gatto ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
-{"id":3, "titolo": "il gatto ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
+{"id":2, "titolo": "il topo ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
+{"id":3, "titolo": "il leone ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
 {"id":4, "titolo": "il gatto ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
-{"id":5, "titolo": "il gatto ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
-{"id":6, "titolo": "il gatto ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"}
+{"id":5, "titolo": "il cave ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"},
+{"id":6, "titolo": "latigre ","link_foto": "https://foto", "autore": "autore", "recensione": "libro interessante"}
 ]
