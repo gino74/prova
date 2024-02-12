@@ -12,5 +12,5 @@
  { day: 5, month: 1, year: 2024, events: [ { title: "Riportare alla befana la scopa dell'anno scorso", time: "10:00", }, 
  ], }, 
  { day: 6, month: 1, year: 2024, events: [ { title: "Se ti porta il cabone non piangere!", time: "10:00", }, 
- { title: "Nutrire cerbero", time: "11:00 ", }, ], }, 
+ { title: "Nutrire cerbero", time: "11:00 ", }, ] }
  ];
