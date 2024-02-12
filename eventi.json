@@ -1,3 +1,16 @@
-[
- { day: 12, month: 02, year: 2024, events: [ { title: "Evento 1 Ricordarsi di bere alcolici moderatamente", time: "10:00" }]}
-]
+[ 
+ { day: 26, month: 12, year: 2023, events: [ { title: "Evento 1 Ricordarsi di bere alcolici moderatamente", time: "10:00", }, 
+ { title: "Evento 2, i resti del pandoro dove li metto?", time: "11:00 ", }, ], }, 
+ { day: 27, month: 12, year: 2023, events: [ { title: "Lorem ipsun dolar sit genfa tersd dsad ", time: "08:00", }, 
+{ title: "Evento 2 di oggi", time: "10:00", }, 
+{ title: "Evento 3 di oggi", time: "11:00",}, 
+{ title: "Evento 4 di oggi", time: "12:00 ", }, 
+{ title: "altro evento ", time: "13:00", }, 
+{ title: "un'altro evento ", time: "14:55", }, 
+{ title: "Ancora uno ", time: "15:45", }, 
+{ title: "Ma si dai un'altro evento ", time: "16:25", },], }, 
+ { day: 5, month: 1, year: 2024, events: [ { title: "Riportare alla befana la scopa dell'anno scorso", time: "10:00", }, 
+ ], }, 
+ { day: 6, month: 1, year: 2024, events: [ { title: "Se ti porta il cabone non piangere!", time: "10:00", }, 
+ { title: "Nutrire cerbero", time: "11:00 ", }, ], }, 
+ ];
