@@ -5,5 +5,7 @@
   {"id": 4,"cat": "verdure","categoria" : "Verdure","nome":"Brodo di barbabietola", "ingredienti" :"barbietola, cipolla rossa, sedano","link":"https://zenzero.blogfree.net/?t=6486846"},
   {"id": 5,"cat": "carne","categoria" : "Carne","nome":"Petti di pollo al forno", "ingredienti" :"petti di pollo, peperoncino,aglio, timo","link":"https://zenzero.blogfree.net/?t=6486917"},
   {"id": 6,"cat": "dolci","categoria" : "Dolci","nome":"Mele Caramellate in Padella", "ingredienti" :"mele, cannella, zucchero di canna","link":"https://zenzero.blogfree.net/?t=6486918"},
-  {"id": 7,"cat": "unici","categoria" : "Piatti unici","nome":"Salsiccia e peperoni al forno", "ingredienti" :"salsiccia piccante, peperoni rossi e gialli","link":"https://zenzero.blogfree.net/?t=6487000"}
+  {"id": 7,"cat": "unici","categoria" : "Piatti unici","nome":"Salsiccia e peperoni al forno", "ingredienti" :"salsiccia piccante, peperoni rossi e gialli","link":"https://zenzero.blogfree.net/?t=6487000"},
+  {"id": 8,"cat": "pesce","categoria" : "Pesce","nome":"Pesce spada alla Siciliana", "ingredienti" :"pesce spada, olive nere, pomodorini","link":"https://zenzero.blogfree.net/?t=6487050"}
+
 ]
