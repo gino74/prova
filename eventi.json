@@ -1,5 +1,5 @@
 [ 
- { "day": 26, "month": 12, "year": 2023, "events": [ { "title": "Evento 1 Ricordarsi di bere alcolici moderatamente", "time": "10:00", }, 
- { "title": "Evento 2, i resti del pandoro dove li metto?", "time": "11:00 ", }, ] } 
+ { "day": 26, "month": 12, "year": 2023, "events": [ { "title": "Evento 1 Ricordarsi di bere alcolici moderatamente", "time": "10:00" }, 
+ { "title": "Evento 2, i resti del pandoro dove li metto?", "time": "11:00 " } ] } 
 
  ]
