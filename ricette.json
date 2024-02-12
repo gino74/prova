@@ -1,5 +1,5 @@
 [
-  {"id": 1,"cat": "insalatecontorni","categoria" : "Insalate e contorni","nome":"Insalata di bietola, fiori di zuccae capperi.", "ingredienti": "bietola, capperi, fiori di zucca","link":"https://zenzero.blogfree.net/?t=6486813"},
+  {"id": 1,"cat": "insalatecontorni","categoria" : "Insalate e contorni","nome":"Insalata di bietola, fiori di zucca e capperi.", "ingredienti": "bietola, capperi, fiori di zucca","link":"https://zenzero.blogfree.net/?t=6486813"},
   {"id": 2,"cat": "primi","categoria" : "Primi","nome":"Linguine con pomodorini, pancetta affumicata e olive nere", "ingredienti":"Linguine con pomodorini, pancetta affumicata e olive nere","link":"https://zenzero.blogfree.net/?t=6486822"},
   {"id": 3,"cat": "valentino","categoria" : "S.Valentino","nome":"Risotto di San Valentino", "ingredienti":"riso,zafferano, barbietola, gamberi","link":"https://zenzero.blogfree.net/?t=6486845"},
   {"id": 4,"cat": "verdure","categoria" : "Verdure","nome":"Brodo di barbabietola", "ingredienti" :"barbietola, cipolla rossa, sedano","link":"https://zenzero.blogfree.net/?t=6486846"},
