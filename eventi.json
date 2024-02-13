@@ -1,6 +1,7 @@
 [
  { "day": 12, "month": 2, "year": 2024, "events": [ { "title": "Evento 1 Ricordarsi di bere alcolici moderatamente", "time": "10:00" }, 
  { "title": "Evento 2, i resti del pandoro dove li metto?", "time": "11:00 " } ] } ,
- { "day": 14, "month": 2, "year": 2024, "events": [ { "title": "S. Valentino", "time": "07:00" }] }
+ { "day": 13, "month": 2, "year": 2024, "events": [ { "title": "Giornata internazionale dell’epilessia", "time": "01:00" },{ "title": "Giornata mondiale della radio", "time": "01:00" }] },
+ { "day": 14, "month": 2, "year": 2024, "events": [ { "title": "S. Valentino", "time": "01:00" },{ "title": "Giornata mondiale contro le cardiopatie congenite", "time": "01:00" }] }
 
 ]
