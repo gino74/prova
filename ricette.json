@@ -8,6 +8,6 @@
   {"id": 7,"cat": "unici","categoria" : "Piatti unici","nome":"Salsiccia e peperoni al forno", "ingredienti" :"salsiccia piccante, peperoni rossi e gialli","link":"https://zenzero.blogfree.net/?t=6487000"},
   {"id": 8,"cat": "pesce","categoria" : "Pesce","nome":"Pesce spada alla Siciliana", "ingredienti" :"pesce spada, olive nere, pomodorini","link":"https://zenzero.blogfree.net/?t=6487050"},
   {"id": 9,"cat": "tortesalate","categoria" : "Torte salate","nome":"Erbazzone", "ingredienti" :"lardo pancettato, bietole, cipolla","link":"https://zenzero.blogfree.net/?t=6487156"},
-    {"id": 10,"cat": "zuppe","categoria" : "Zuppe minestre","nome":"Fagioli e scarola", "ingredienti" :"scarola, cannellini, peperoncino","link":"https://zenzero.blogfree.net/?t=6487586"}
-
+  {"id": 10,"cat": "zuppe","categoria" : "Zuppe minestre","nome":"Fagioli e scarola", "ingredienti" :"scarola, cannellini, peperoncino","link":"https://zenzero.blogfree.net/?t=6487586"},
+   {"id": 11,"cat": "antipasti","categoria" : "Antipasti","nome":"Chips di farina di ceci e mais", "ingredienti" :"ceci, mais","link":"https://zenzero.blogfree.net/?t=6487725"}
 ]
