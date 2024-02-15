@@ -9,5 +9,7 @@
   {"id": 8,"cat": "pesce","categoria" : "Pesce","nome":"Pesce spada alla Siciliana", "ingredienti" :"pesce spada, olive nere, pomodorini","link":"https://zenzero.blogfree.net/?t=6487050"},
   {"id": 9,"cat": "tortesalate","categoria" : "Torte salate","nome":"Erbazzone", "ingredienti" :"lardo pancettato, bietole, cipolla","link":"https://zenzero.blogfree.net/?t=6487156"},
   {"id": 10,"cat": "zuppe","categoria" : "Zuppe minestre","nome":"Fagioli e scarola", "ingredienti" :"scarola, cannellini, peperoncino","link":"https://zenzero.blogfree.net/?t=6487586"},
-   {"id": 11,"cat": "antipasti","categoria" : "Antipasti","nome":"Chips di farina di ceci e mais", "ingredienti" :"ceci, mais","link":"https://zenzero.blogfree.net/?t=6487725"}
+   {"id": 11,"cat": "antipasti","categoria" : "Antipasti","nome":"Chips di farina di ceci e mais", "ingredienti" :"ceci, mais","link":"https://zenzero.blogfree.net/?t=6487725"},
+{"id": 12,"cat": "primi","categoria" : "Primi","nome":"Pasta Tonno e Limone", "ingredienti" :"pasta, tonno, limone","link":"https://zenzero.blogfree.net/?t=6487730"}
+
 ]
