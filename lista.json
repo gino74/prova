@@ -1,6 +1,6 @@
-{[{"marca": "merce","tipo": "auto"},
+[{"marca": "merce","tipo": "auto"},
 {"marca": "ford","tipo": "auto1"},
 {"marca": "fiat","tipo": "cami"},
 {"marca": "jagu","tipo": "breck"}
 ]
-}
+
